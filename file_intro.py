@@ -3,5 +3,3 @@
 # Щоб при підготовці до захисті всім іншим було простіше
 # Приклад:
 print("talon discreet")  # Виводить talon discreet
-
-print("slop")  # Виводить slop
